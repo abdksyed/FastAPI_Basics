@@ -6,4 +6,6 @@
 
 * Module 2: Request Body and Pydantic Models
 
-* Module 3: Connecting to Database and Performing CRUD Operations.
+* Module 3: Connecting to Database, Performing CRUD Operations and Routing.
+
+* Module 4: Authentication
